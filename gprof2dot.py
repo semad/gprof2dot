@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python36
 #
 # Copyright 2008-2017 Jose Fonseca
 #
